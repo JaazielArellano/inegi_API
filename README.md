@@ -278,6 +278,7 @@ Sube los siguientes archivos a tu entorno en PythonAnywhere:
 mkvirtualenv --python=python3.10 mi-entorno-api
 pip install flask supabase python-dotenv "httpx<0.28.0" "websockets>=13.0,<16.0"
 ```
+Nota: para ésta practica recomendamos trabajar con** python 3.10**, puesto que es la versión que se utilizó para ejecutar localmente y también fue la versión que se configuró en** Python AnyWhere** con esa misma versión (para evitar incompatibilidades)
 ![image.png](https://github.com/user-attachments/assets/996056e2-1512-4a55-b3b0-f5f7b0c683b1 'image.png')
 
 ## 3. Configurar la Web App
